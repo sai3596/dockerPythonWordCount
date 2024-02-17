@@ -1,0 +1,10 @@
+Text Files: requirements.txt, IF.txt, Limerick-1.txt
+Words in requirements.txt: 0
+Words in IF.txt: 287
+Words in Limerick-1.txt: 32
+Total Words in All Files: 319
+Top 3 words in IF.txt:
+and: 16
+if: 14
+you: 14
+IP Address: 172.17.0.2
